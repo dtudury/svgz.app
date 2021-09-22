@@ -1,6 +1,6 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/svgz.app" # the subpath of your site, e.g. /blog
-title: "svgz.app" # the name of your site, e.g. ACME Corp.
+url: "https://svgz.app" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+title: "svgz.app"
 
 defaults:
   -
